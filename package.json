@@ -1,0 +1,22 @@
+{
+  "name": "cc-signin",
+  "version": "1.0.0",
+  "description": "When the pucks don't work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPS-Makers-Club/CC-Signin.git"
+  },
+  "author": "AirFusion45",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CPS-Makers-Club/CC-Signin/issues"
+  },
+  "homepage": "https://github.com/CPS-Makers-Club/CC-Signin#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
